@@ -46,4 +46,4 @@ commands (free to you to create a little client 🙂):
 
 Here's a short demonstration.
 
-![Demonstration](https://github.com/jujur10/PicoNetBoot/assets/49812199/f0f716f7-61a4-42cc-aa4d-5ecdde524ac7)
+![Demonstration](https://github.com/AnabolicRoo/PicoNetBoot/assets/49812199/f0f716f7-61a4-42cc-aa4d-5ecdde524ac7)
